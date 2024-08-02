@@ -96,6 +96,6 @@ Based on the chart experiments, I defined three hypothetical statements from the
 ## Recommender system
 ![Screenshot (209)](https://github.com/user-attachments/assets/7950d046-3d65-4a8e-ab4a-491f34d711dc)
 
-- Built a Recommendation system that can help Netflix improve user experience and reduce subscriber churn by providing personalized recommendations to users based on their similarity scores.
+### Built a Recommendation system that can help Netflix improve user experience and reduce subscriber churn by providing personalized recommendations to users based on their similarity scores.
 
 
